@@ -37,9 +37,6 @@ Focused on building scalable systems and intelligent applications
 
 ---
 
-## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhath004&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhath004&layout=compact&theme=default)  
 
 ---
 
