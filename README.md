@@ -48,4 +48,4 @@ Focused on building scalable systems and intelligent applications
 ---
 
 ## Fun Fact  
-Outside of technology, I enjoy hiking, swimming, and going to the gym.  
+Outside of technology, I enjoy hiking  
